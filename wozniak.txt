@@ -1,1 +1,5 @@
 <b>How can I apply Wozniak's system for myself and for this course?</b>
+
+Wozniak's system was all about learning and remembering by understanding. He had done something to himself and set up an algorithm that could help a person remember what he learned. From his system, I could apply this when the term where we have to program and start coding. Why? Because, with a lot of codes that will be piled up onto us, I have to remember them all in order to make the game perform correctly. I could practice the codes that we will learn from the first day then the third day and so on, so forth, following Wozniak's system. The common codes first then it'll get even more difficult as it goes on since the basics are the most important. 
+
+Since I'm in BS-IT GDD, we are focused on programming and developing games. Each game, it'll get even more complex because of our unending imagination and innovation of games, which will need upgrade on coding, in which the games are new concepts meaning new coding and other stuff. Although, the bases would probably from the previous games created by man.
