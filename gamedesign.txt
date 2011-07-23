@@ -1,3 +1,5 @@
 <b>From http://gamedev.stackexchange.com/questions/15017/handling-collision-with-2d-surfaces-and-player-sprite, the problem was:</b>
 
-<i>Handling collision with 2D surfaces and player sprite</i>
+<b><i>Handling collision with 2D surfaces and player sprite</i></b>
+
+This is not actually the first thing that I found interesting, since the first one I picked didn't really made sense in my head due to lack of knowledge. Nevertheless, this caught my attention since I want to learn more about editing pictures, animations/effects and etc. for a game. What they discussed was how to create the best effect of friction for 2d top down racing games and how to determine the friction of the ground depending on the map you have. The answers were quite relevant, because, they were able to explain on what should be used from detection of collision for friction to the effect itselfthat will happen once the friction is commited.
