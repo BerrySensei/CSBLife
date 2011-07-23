@@ -1,10 +1,10 @@
 <html>
 <title><h3>St. John Baptist de La Salle</h3></title>
 
-<head>Ten New Things from Wiki<hr>
-<body>I don't know much about him. However, when I read the wiki, I learned a lot of new things. In each things I read, there are what we call the best parts, the best new things I learned.
+<head><u><b><font style="Comic Sans MS"><marquee>Ten New Things from Wiki</marquee></font></b></u></head><hr>
+<body>I don't know much about him. However, when I read the wiki, I learned a lot of new things. In each things I read, there are what we call the <b>best</b> parts, the best new things I learned.
 
-1. He had done little things that gave results he never expected.
+<i>1. He had done little things that gave results he never expected.
 2. He didn't actually intend to live with the schoolmasters and was just helping them out of pure charity.
 3. His major shrine is the Sanctuary of John Baptist de La Salle, Casa Generalizia in Rome, Italy.
 4. He became the Patron Saint of Teachers by Pope Pius XII.
