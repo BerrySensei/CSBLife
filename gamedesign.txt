@@ -1,0 +1,3 @@
+<b>From http://gamedev.stackexchange.com/questions/15017/handling-collision-with-2d-surfaces-and-player-sprite, the problem was:</b>
+
+<i>Handling collision with 2D surfaces and player sprite</i>
