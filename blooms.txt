@@ -2,16 +2,7 @@ Group members: Patricia Mercado, Anthon Ganzon and Zheanne Ibrahim
 
 Topic: Word Problems in Algebra
 
-Knowledge
+Comprehension
 
-Word Problems
- - representation of certain values into algebraic equations
- - a problem that needs interpretation and analysis to translate it into an algebraic equations
-
-Involvement of:
-*Basic Arithmetic Operation
-Slope- Intercept:
-* Substitution
-* Elimination
-* Cramer's Rule
-* Graphical
+*How to formulate the equation from words
+*Derivation
