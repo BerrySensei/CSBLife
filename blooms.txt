@@ -2,7 +2,7 @@ Group members: Patricia Mercado, Anthon Ganzon and Zheanne Ibrahim
 
 Topic: Word Problems in Algebra
 
-Comprehension
+Application
 
-*How to formulate the equation from words
-*Derivation
+*Used to predict an outcome that involves numerical problems like in business and accounting, engineering and architecture
+ - If a young entrepreneur wants to start his/her own small business, he/she needs to take out a loan from the bank to have a starting capital. Formulating an equation that will solve for the interest would be very helpful.
